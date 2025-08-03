@@ -1,32 +1,36 @@
+📘 Introduction to Big Data – Final Report
+🧑‍🎓 Name: MAHIRWE Yvette
+🆔 Student ID: 26510
+💡 Project Title: Hospital Resource Management System
+📍 PART 1: Problem Definition & Planning
+🔹 1. Sector Focus
+Health Sector 🏥
+Efficient healthcare delivery requires robust systems for managing hospital resources such as beds, staff, and medical equipment.
 
-##  Name: MAHIRWE Yvette
-##  ID: 26510
-#  Introduction-to-Big-Data-Final-Report
-#  HOSPITAL RESOURCE MANAGEMENT SYSTEM
+🔹 2. Problem Statement
+Hospitals often struggle to manage limited resources effectively, leading to service delays, overwhelmed facilities, and inefficient care delivery.
+Manual or disjointed tracking systems contribute to misallocation, underutilization, and lack of transparency in resource management.
 
-##  PART 1: PROBLEM DEFINITION & PLANNING
- 🔹 1. Sector Selection:
-🩺 Health
+This project proposes the development of a centralized, data-driven hospital resource management system to monitor, allocate, and optimize resources in real-time.
+The system aims to enhance coordination, improve responsiveness, and ultimately boost the overall quality of healthcare services.
 
-🔹 2. Problem Statement:
-Hospitals often face challenges in managing limited resources such as beds, equipment, and staff, resulting in delays and poor service delivery.
- Manual or disjointed systems lead to misallocation and underutilization of essential resources.
- This project proposes a centralized digital system to effectively monitor, allocate, and optimize hospital resources in real-time, enhancing coordination and quality of care.
+🔹 3. Dataset Description
+Property	Value
+Dataset Title	COVID-19 Reported Patient Impact and Hospital Capacity by State (RAW)
+Source	CDC – View Dataset
+Rows	55
+Columns	135
+File Format	Structured (CSV, Excel)
+Data Status	Requires Cleaning and Transformation
 
-🔹 3. Data Identification:
-📄 Dataset Title: COVID-19 Reported Patient Impact and Hospital Capacity by State (RAW)
+🧮 PART 2: Python Analytics Setup
+This section involves cleaning and analyzing the dataset using Python, with a focus on:
 
-🌐 Source Link: View Dataset
+Removing missing and irrelevant data
 
-🔢 Number of Rows: 55
+Analyzing trends in bed utilization, ICU capacity, and COVID-19 impact
 
-📊 Number of Columns: 135
-
-🧾 Data Structure: Structured (CSV, Excel)
-
-🧹 Data Status: Required Cleaning
-
-## Part 2: PYTHON ANALYTICS
+Preparing the dataset for Power BI visualizations
 
 <img width="1202" height="382" alt="1" src="https://github.com/user-attachments/assets/096a3294-72b7-464c-9b8b-ea696d3cbc1d" />
 
