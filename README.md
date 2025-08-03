@@ -42,5 +42,10 @@ Data Status	Requires Cleaning and Transformation
 <img width="1083" height="422" alt="5" src="https://github.com/user-attachments/assets/5c911a11-3b77-4e3b-84a1-23451dd5cf44" />
 
 
+## 📍 PART 3: POWER BI DASHBOARD
+This dashboard visualizes key insights from the Hospital Resource Management project
+<img width="1282" height="687" alt="Power bi" src="https://github.com/user-attachments/assets/4dbc5bf1-4b92-4ae1-bb63-9b1ff60ed809" />
+
+
 
 
