@@ -1,9 +1,9 @@
 
-## 🧑‍🎓 Name: MAHIRWE Yvette
-##    Student ID: 26510
-# 💡 Project Title: Hospital Resource Management System
+## Name: MAHIRWE Yvette
+## Student ID: 26510
+#  HOSPITAL RESOURCE MANAGEMENT SYSTEM
 ## 📍 PART 1: Problem Definition & Planning
-### 🔹 1. Sector Focus: Health Sector 🏥
+### 🔹 1. Sector Focus: Health Sector 
 Efficient healthcare delivery requires robust systems for managing hospital resources such as beds, staff, and medical equipment.
 
 ### 🔹 2. Problem Statement
@@ -22,7 +22,7 @@ Columns	135
 File Format	Structured (CSV, Excel)
 Data Status	Requires Cleaning and Transformation
 
-## 🧮 PART 2: Python Analytics Setup
+## 📍 PART 2: Python Analytics Setup
 🔹This section involves cleaning and analyzing the dataset using Python, with a focus on:
 
 🔹Removing missing and irrelevant data
