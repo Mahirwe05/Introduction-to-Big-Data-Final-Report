@@ -26,3 +26,18 @@ Hospitals often face challenges in managing limited resources such as beds, equi
 
 🧹 Data Status: Required Cleaning
 
+## Part 2: PYTHON ANALYTICS
+
+<img width="1202" height="382" alt="1" src="https://github.com/user-attachments/assets/096a3294-72b7-464c-9b8b-ea696d3cbc1d" />
+
+<img width="1213" height="488" alt="2" src="https://github.com/user-attachments/assets/200d7822-d15b-4a98-92a0-b88463e548a5" />
+
+<img width="1221" height="611" alt="3" src="https://github.com/user-attachments/assets/22c8547c-c853-45da-ad6d-6f89ddd6fd99" />
+
+<img width="1227" height="630" alt="4" src="https://github.com/user-attachments/assets/61ae3bb1-cc7b-4303-a409-75ae4eb15d31" />
+
+<img width="1083" height="422" alt="5" src="https://github.com/user-attachments/assets/5c911a11-3b77-4e3b-84a1-23451dd5cf44" />
+
+
+
+
