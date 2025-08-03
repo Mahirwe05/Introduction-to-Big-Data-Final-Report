@@ -14,13 +14,13 @@ This project proposes the development of a centralized, data-driven hospital res
 The system aims to enhance coordination, improve responsiveness, and ultimately boost the overall quality of healthcare services.
 
 ### 🔹 3. Dataset Description
-Property	Value
-Dataset Title	COVID-19 Reported Patient Impact and Hospital Capacity by State (RAW)
-Source	CDC – View Dataset
-Rows	55
-Columns	135
-File Format	Structured (CSV, Excel)
-Data Status	Requires Cleaning and Transformation
+
+. Dataset Title: 	COVID-19 Reported Patient Impact and Hospital Capacity by State (RAW)
+. Source link: https://healthdata.gov/dataset/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/6xf2-c3ie/data_preview
+. Rows: 55
+. Columns:	135
+. File Format: 	Structured (CSV, Excel)
+. Data Status	: Requires Cleaning and Transformation
 
 ## 📍 PART 2: Python Analytics Setup
 🔹This section involves cleaning and analyzing the dataset using Python, with a focus on:
