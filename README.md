@@ -16,10 +16,15 @@ The system aims to enhance coordination, improve responsiveness, and ultimately 
 ### 🔹 3. Dataset Description
 
 . Dataset Title: 	COVID-19 Reported Patient Impact and Hospital Capacity by State (RAW)
+
 . Source link: https://healthdata.gov/dataset/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/6xf2-c3ie/data_preview
+
 . Rows: 55
+
 . Columns:	135
+
 . File Format: 	Structured (CSV, Excel)
+
 . Data Status	: Requires Cleaning and Transformation
 
 ## 📍 PART 2: Python Analytics Setup
